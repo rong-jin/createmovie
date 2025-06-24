@@ -77,3 +77,8 @@ pip install opencv-python numpy moviepy
 - Ensure all dependencies are installed and the required folders and image files exist.
 - Adjust parameters like frame rate, resolution, or text content in the code as needed.
 - Processing may take some time depending on the number and size of images.
+
+## Sample Output
+
+A short sample of the final video output, created using this pipeline, can be viewed here:  
+▶️ [Sample Video on YouTube](https://www.youtube.com/shorts/Mgilk_iLav4)
